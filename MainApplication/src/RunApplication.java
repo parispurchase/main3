@@ -5,6 +5,7 @@ public class RunApplication {
 		// TODO Auto-generated method stub
 		int foo = 0;
 		int fork = 0;
+		int ken = 0;
 	}
 
 }
